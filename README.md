@@ -1,4 +1,4 @@
-<h1 align="center"> ۶ৎ noi/leaf ⟡</h1>
+<h1 align="center">  noi/leaf </h1>
 
 
 
