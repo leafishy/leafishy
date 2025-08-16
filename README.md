@@ -1,6 +1,7 @@
 https://arab.org/click-to-help/palestine/
-<h1 align="center"> 𝒏𝒐𝒊/𝒍𝒆𝒂𝒇
- </h1>
+<h1 align="center"><big><img width="500" height="150" alt="cooltext488963273307678" src="https://github.com/user-attachments/assets/2efe2299-8542-409a-8340-0c5c2b1b9998" />
+</big></h1>
+
 
 
 <div align="center">
