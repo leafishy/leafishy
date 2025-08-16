@@ -4,7 +4,7 @@ https://arab.org/click-to-help/palestine/
 
 
 <div align="center">
-<img width="700" height="850" alt="hereaugio" src="https://github.com/user-attachments/assets/b9400eaa-0ad6-4968-a3df-3d9bd35074ae" />
+ <img width="1888" height="1888" alt="<img width="1888" height="1888" alt="hereaugio (2)" src="https://github.com/user-attachments/assets/f8e1e001-6b21-418e-b6df-e89535cefc71" />
 
 
 
