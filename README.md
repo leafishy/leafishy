@@ -5,7 +5,7 @@ https://arab.org/click-to-help/palestine/
 
 
 <div align="center">
-<img width="1800" height="1800" alt="upscalemedia-transformed" src="https://github.com/user-attachments/assets/601423ca-3000-40b5-8b48-2a114f203cfb" />
+<img width="1700" height="1700" alt="upscalemedia-transformed" src="https://github.com/user-attachments/assets/601423ca-3000-40b5-8b48-2a114f203cfb" />
 
 
 
