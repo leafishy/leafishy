@@ -1,5 +1,5 @@
 https://arab.org/click-to-help/palestine/
-<h1 align="center"><big><img width="500" height="150" alt="cooltext488963273307678" src="https://github.com/user-attachments/assets/2efe2299-8542-409a-8340-0c5c2b1b9998" />
+<h1 align="center"><big><img width="400" height="150" alt="cooltext488963273307678" src="https://github.com/user-attachments/assets/2efe2299-8542-409a-8340-0c5c2b1b9998" />
 </big></h1>
 
 
