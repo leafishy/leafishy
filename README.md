@@ -1,4 +1,3 @@
-https://arab.org/click-to-help/palestine/
 <div align="center">
 wip
 <div align="center">
